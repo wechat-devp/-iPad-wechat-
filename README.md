@@ -12,6 +12,8 @@
 
 欢迎通过 Telegram 交流咨询、开发实践与技术学习。本协议配套软件含 本地网络出口代理软件，专用验证app（过验证码和人脸验证）iOS和Android双端
 
+可提供成品或接口测试验证
+
 Telegram：[@opencode666](https://t.me/opencode666)
 
 也可扫描下方二维码联系：
